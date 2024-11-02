@@ -29,8 +29,8 @@ In this tutorial, we use **Stable Diffusion XL (SDXL)** along with the **Hugging
    Start by cloning this repository and creating a virtual environment:
 
    ```bash
-   git clone https://github.com/yourusername/indonesian-food-synthetic-data.git
-   cd indonesian-food-synthetic-data
+   git clone https://github.com/KalbeDigitalLab/SYN_DAM-TUTORIAL-PRICAI-2024.git
+   cd SYN_DAM-TUTORIAL-PRICAI-2024
    python -m venv env
    source env/bin/activate  # For Windows, use `env\Scripts\activate`
    ```
